@@ -2,7 +2,7 @@
 <body style="background-color:#b0c4de;">
 <h1 align="center">Hi 👋, I'm Harshit</h1>
 <h3 align="center">A passionate and hardworking student interested in ML and Data Science</h3>
-<img align="right" alt="Coding" width="400" src=""C:\Users\harshit.aggarwal\Downloads\coder.gif"">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blasterharsh99&label=Profile%20views&color=0e75b6&style=flat" alt="blasterharsh99" /> </p>
 
