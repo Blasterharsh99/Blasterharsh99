@@ -26,6 +26,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blasterharsh99&show_icons=true&locale=en&layout=compact" alt="blasterharsh99" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blasterharsh99&show_icons=true&locale=en&count_private=true&include_all_commits=true
-" alt="blasterharsh99" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blasterharsh99&show_icons=true&locale=en&count_private=true&include_all_commits=true&random=23423ads" alt="blasterharsh99" /></p>
 </body>
